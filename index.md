@@ -14,3 +14,6 @@ Initialized empty Git repository in [/Users/skills/Projects/recipe-repository/.g
 ``` java
 string message = "Well, I hope this is what the assignment wants me to do"
 ```
+- [ ] Read assignment correctly
+- [ ] Exicute directions to the best of my ability
+- [ ] Pray I did it right for the grade
