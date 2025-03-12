@@ -6,7 +6,11 @@
 # practicing <sub>Subscript text</sub> in this header
 # practicing <sup>Superscript text</sup> in this header
 # practicing <ins>Underlined text</ins> in this header
+```
+> git init
+Initialized empty Git repository in [/Users/skills/Projects/recipe-repository/.git/]
+```
 ![Immage of Falcon ready to punch](https://github.com/MichaelJadeRoberts/skills-communicate-using-markdown/blob/start-markdown/Falcon-Punch.jpg)!
-~~~ java
+``` java
 string message = "Well, I hope this is what the assignment wants me to do"
-~~~
+```
